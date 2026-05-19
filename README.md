@@ -33,4 +33,4 @@ npm run dev
 Open esp32-firmware/main.ino in Arduino IDE and upload to ESP32.
 
 ## Team
-SmartEco-Column Project — [Your School Name]
+SmartEco-Column Project — Colegio de Muntinlupa
